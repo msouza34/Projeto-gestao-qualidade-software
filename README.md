@@ -19,8 +19,8 @@ Documentar e aplicar práticas de gestão e qualidade de software em um contexto
 ## 👨‍🎓 Contexto acadêmico
 Projeto desenvolvido para fins acadêmicos.
 
-## ✍️ Autor
-**Matheus Silva**
+
+
 
 
 
